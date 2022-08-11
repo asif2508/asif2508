@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif2508&label=Profile%20views&color=0e75b6&style=flat" alt="asif2508" /> </p>
 
-- 🌱 I’m currently learning **Node, Express, MongoDB.**
+- 🌱 I’m currently learning **Node, Express, MongoDB, Next js.**
 
 - 💬 Ask me about **React, Python, JavaScript**
 
