@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif2508&label=Profile%20views&color=0e75b6&style=flat" alt="asif2508" /> </p>
 
-- 🌱 I’m currently learning **Node, Express, MongoDB, Next js.**
+- 🌱 I’m currently learning **React Native.**
 
-- 💬 Ask me about **React, Python, JavaScript**
+- 💬 Ask me about **React, Python, JavaScript, Node js, Express js, MongoDB, Next js, Typescript**
 
 - 📫 How to reach me **asifrakibulhasan4@gmail.com**
 
