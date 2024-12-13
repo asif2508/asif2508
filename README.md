@@ -1,59 +1,96 @@
-<h1 align="left">Hi 👋, I'm Rakibul Hasan Asif</h1>
-<h3 align="left">I am a passionate full-stack web application developer with a hardworking and always learning mentality. Now I am studying BSc in Software Engineering at Yangzhou University in China. My goal is to be a professional software architect and I am working hard toward that.</h3>
+ <h1 align="center">👋 Hi, I'm Rakibul Hasan Asif!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asif2508&label=Profile%20views&color=0e75b6&style=flat" alt="asif2508" /> </p>
+  <p align="center">
+    💻 <strong>CTO at <a href="https://arturion.io" target="_blank">Arturion</a> | Full-Stack Developer | Software Architect | Educator</strong>  
+  </p>
+  <p align="center">
+    Welcome to my GitHub profile! I'm a passionate software engineer with expertise in crafting elegant, scalable, and production-ready applications. As the Chief Technology Officer (CTO) of <a href="https://arturion.io" target="_blank">Arturion</a>, I lead innovative software projects and create impactful solutions.
+  </p>
 
-- 🌱 I’m currently learning **React Native.**
+  <hr />
 
-- 💬 Ask me about **React, Python, JavaScript, Node js, Express js, MongoDB, Next js, Typescript**
+  <h2>🛠️ Skillset</h2>
+  <h3>Front-End Development</h3>
+  <ul>
+    <li><strong>Languages & Tools:</strong> HTML5, CSS3, JavaScript (ES6+), TypeScript</li>
+    <li><strong>Frameworks:</strong> React.js, Next.js, Redux, Tailwind CSS, Material-UI</li>
+    <li><strong>Specialties:</strong> Building dynamic and responsive UIs, advanced state management, design systems</li>
+  </ul>
 
-- 📫 How to reach me **asifrakibulhasan4@gmail.com**
+  <h3>Back-End Development</h3>
+  <ul>
+    <li><strong>Languages:</strong> JavaScript, TypeScript, C++</li>
+    <li><strong>Frameworks & Tools:</strong> Node.js, Express.js, MongoDB, Mongoose</li>
+    <li><strong>Specialties:</strong> RESTful APIs, database management, backend scalability</li>
+  </ul>
 
-<!-- 📄 Know about my experiences [https://drive.google.com/file/d/19l3YsvK1YiFoBSqpcJ3gBy9IxtFYQNIW/view](https://drive.google.com/file/d/19l3YsvK1YiFoBSqpcJ3gBy9IxtFYQNIW/view) -->
+  <h3>Mobile App Development</h3>
+  <ul>
+    <li><strong>Frameworks & Tools:</strong> React Native, Expo, Firebase</li>
+    <li><strong>Specialties:</strong> Cross-platform mobile apps, RESTful API integration, performance optimization</li>
+  </ul>
 
-- ⚡ Fun fact **I think I am Unstoppable.**
+  <h3>Cloud & DevOps</h3>
+  <ul>
+    <li><strong>Platforms:</strong> AWS (Amplify, Elastic Beanstalk, S3, Route 53), Microsoft Azure</li>
+    <li><strong>Tools:</strong> Docker, Nginx, Git, GitHub Actions</li>
+    <li><strong>Specialties:</strong> Cloud-based solutions, CI/CD pipelines</li>
+  </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asifrakibul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asifrakibul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rakibul-hasan-asif-35332a1a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakibul-hasan-asif-35332a1a0/" height="30" width="40" /></a>
-<a href="https://fb.com/rakibulhasan.asif.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibulhasan.asif.9" height="30" width="40" /></a>
-<a href="https://instagram.com/_asif2508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_asif2508" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hackium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hackium" height="30" width="40" /></a>
-</p>
+  <h3>Software Architecture</h3>
+  <ul>
+    <li>Designing scalable and maintainable systems</li>
+    <li>Implementing modular and reusable codebases</li>
+    <li>Leading technical strategy and teams</li>
+  </ul>
 
-<h3 align="left">Languages and Tools:</h3>
- <table>
-        <tr>
-            <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a></td>
-            <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a></td>
-            <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a></td>
-            <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a></td>
-            <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> </td>
-        </tr>
-        <tr>
-            <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a></td>
-            <td><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-                <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> </a> </td>
-            <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> </td>
-            <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> </td>
-            <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a></td>
-            <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a> </td>
-            <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> </td>
-            <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a></td>
-            <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> </td>
-        </tr>
-        <tr>
-            <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> </td>
-        </tr>
-    </table>
+  <hr />
 
+  <h2>🏆 Professional Experience</h2>
+  <ul>
+    <li><strong>CTO at <a href="https://arturion.io" target="_blank">Arturion</a>:</strong> Spearheading innovative projects, driving technical strategies, and delivering scalable solutions.</li>
+    <li><strong>Software Engineer:</strong> Developed advanced social media apps, backend APIs, and image optimization tools.</li>
+    <li><strong>Educator & Mentor:</strong> Creator of <em>Code to Prod</em>, conducted Redux workshops, and designed comprehensive programming courses.</li>
+    <li><strong>Level 2 Seller on Fiverr:</strong> Delivered top-quality front-end and full-stack projects with excellent client communication.</li>
+    <li><strong>Team Lead:</strong> Guided teams to success while ensuring code quality and best practices.</li>
+  </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif2508&show_icons=true&locale=en&layout=compact" alt="asif2508" /></p>
+  <hr />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif2508&show_icons=true&locale=en" alt="asif2508" /></p>
+  <h2>🎓 Education</h2>
+  <p><strong>BSc in Software Engineering</strong><br>Yangzhou University</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif2508&" alt="asif2508" /></p>
+  <hr />
+
+  <h2>⚡ Fun Facts</h2>
+  <ul>
+    <li>My friends call me <strong>"Dinosaur"</strong> 🦖 for my programming superpowers and ability to tackle tough challenges.</li>
+    <li>I’m always exploring the latest technologies to stay ahead in the ever-evolving tech landscape.</li>
+  </ul>
+
+  <hr />
+
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a href="https://twitter.com/asifrakibul" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asifrakibul" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/rakibul-hasan-asif-35332a1a0/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    </a>
+    <a href="https://fb.com/rakibulhasan.asif.9" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibulhasan.asif.9" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/_asif2508" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_asif2508" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/c/hackium" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hackium" height="30" width="40" />
+    </a>
+  </p>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif2508&show_icons=true&locale=en&layout=compact" alt="asif2508" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif2508&show_icons=true&locale=en" alt="asif2508" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif2508&" alt="asif2508" /></p>
