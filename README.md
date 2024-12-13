@@ -20,7 +20,7 @@
   <h3>Back-End Development</h3>
   <ul>
     <li><strong>Languages:</strong> JavaScript, TypeScript, C++</li>
-    <li><strong>Frameworks & Tools:</strong> Node.js, Express.js, MongoDB, Mongoose</li>
+    <li><strong>Frameworks & Tools:</strong> Node.js, Express.js, Prisma, PostgreSQL, MongoDB, Mongoose</li>
     <li><strong>Specialties:</strong> RESTful APIs, database management, backend scalability</li>
   </ul>
 
@@ -49,6 +49,7 @@
   <h2>🏆 Professional Experience</h2>
   <ul>
     <li><strong>CTO at <a href="https://arturion.io" target="_blank">Arturion</a>:</strong> Spearheading innovative projects, driving technical strategies, and delivering scalable solutions.</li>
+    <li><strong>Senior Fullstack Engineer at CodeVertix:</strong> Developed complex full-stack applications, worked on both frontend and backend systems, and optimized database solutions using PostgreSQL and Prisma.</li>
     <li><strong>Software Engineer:</strong> Developed advanced social media apps, backend APIs, and image optimization tools.</li>
     <li><strong>Educator & Mentor:</strong> Creator of <em>Code to Prod</em>, conducted Redux workshops, and designed comprehensive programming courses.</li>
     <li><strong>Level 2 Seller on Fiverr:</strong> Delivered top-quality front-end and full-stack projects with excellent client communication.</li>
